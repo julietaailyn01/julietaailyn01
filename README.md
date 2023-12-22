@@ -12,4 +12,5 @@ Soy un desarrollador web apasionado por crear experiencias de usuario excepciona
 - TypeScript
 
 ### Contactame
-- LinkedIn: [![LinkedIn](https://www.linkedin.com/in/julieta-ailyn-mosquera-14a331205/)https://www.linkedin.com/in/julieta-ailyn-mosquera-14a331205/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/julieta-ailyn-mosquera-14a331205/)
+
