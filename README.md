@@ -1,16 +1,15 @@
-### Hi there 👋
+### ¡Hola! Soy Juli 👋
 
-<!--
-**julietaailyn01/julietaailyn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](URL_de_tu_imagen)
 
-Here are some ideas to get you started:
+### Sobre mí
+Soy un desarrollador web apasionado por crear experiencias de usuario excepcionales. Mi enfoque principal está en el desarrollo front-end utilizando tecnologías como React, Redux y TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+- React
+- Redux
+- Express
+- TypeScript
+
+### Contactame
+- LinkedIn: [![LinkedIn](https://www.linkedin.com/in/julieta-ailyn-mosquera-14a331205/)https://www.linkedin.com/in/julieta-ailyn-mosquera-14a331205/)
