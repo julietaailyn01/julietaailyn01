@@ -27,6 +27,5 @@ My primary passion lies in frontend development, but my future vision is directe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/julieta-ailyn-mosquera-14a331205/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julietaailyn01)](https://github.com/anuraghazra/github-readme-stats)
 
 
