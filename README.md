@@ -1,6 +1,7 @@
 ### Hi there! I'm Juli 👋
 
-![Banner](https://media.licdn.com/dms/image/D4D16AQEvP4b2z_x7zA/profile-displaybackgroundimage-shrink_350_1400/0/1696266190989?e=1709164800&v=beta&t=IPhubXwFPC3MaUV52B7YnV8FKW4Lnl_v26UZThECyrU)
+![Banner de Linkedin Asistente Virtual Aesthetic Rosa y rojo](https://github.com/user-attachments/assets/5b4c5afa-bce4-4f20-873b-73d7487cd9ed)
+
 
 ### About me
 
